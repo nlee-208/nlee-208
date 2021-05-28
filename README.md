@@ -1,11 +1,12 @@
-### 👋👋👋 herro 👋👋👋
+### 👋👋👋 Vienvenidos 👋👋👋
 
 - Currently Majoring in Statistics (BS)
 - Interested in AI/ML/NLP/Statistics
 - Languages: Python/R
 
-### Current Projects:
-- 
+### Currently Obsessed With:
+- MLP-Mixer
+- Large Scale ML & Self Supervised Learning(SSL)
 
 <!--
 **nlee-208/nlee-208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
