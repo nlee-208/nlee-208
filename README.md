@@ -6,6 +6,7 @@
 
 ### Currently Obsessed With:
 - MLP-Mixer
+- NMT & MNMT
 - Large Scale ML & Self Supervised Learning(SSL)
 
 <!--
