@@ -4,8 +4,8 @@
 - Interested in AI/ML/NLP/Statistics
 - Languages: Python/R
 
-### Currently Obsessed With:
-- MLP-Mixer
+### Current Interests:
+- MLP-Mixer , gMLP
 - NMT & MNMT
 - Large Scale ML & Self Supervised Learning(SSL)
 
