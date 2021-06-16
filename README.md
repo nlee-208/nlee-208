@@ -6,7 +6,7 @@
 
 ### Current Interests:
 - MLP-Mixer , gMLP
-- NMT & MNMT
+- Vision Transformer (ViT)
 - Large Scale ML & Self Supervised Learning(SSL)
 
 <!--
