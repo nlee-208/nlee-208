@@ -1,4 +1,4 @@
-### 👋👋👋 Vienvenidos 👋👋👋
+### 👋👋👋 Bienvenidos 👋👋👋
 
 - Currently Majoring in Statistics (BS)
 - Interested in AI/ML/NLP/Statistics
