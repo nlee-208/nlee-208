@@ -6,8 +6,7 @@
 
 ### Current Interests:
 - MLP-Mixer , gMLP
-- Vision Transformer (ViT)
-- Large Scale ML & Self Supervised Learning(SSL)
+- Commonsense Reasoning
 
 <!--
 **nlee-208/nlee-208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
