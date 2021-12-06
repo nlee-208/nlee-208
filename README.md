@@ -5,7 +5,7 @@
 - Languages: Python/R
 
 ### Currently participating in Naver BoostCamp AI Tech (NLP Track) ##
-- Conducted rojects, paper summaries, code implementation, course summaries & reflection will be updated... SOON
+- Projects, paper summaries, code implementation, course summaries & reflection will be updated... SOON
 
 ### Current Interests:
 - MLP-Mixer , gMLP
