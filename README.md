@@ -4,7 +4,7 @@
 - Interested in Knowledge Graphs, Information Retrieval, Commonsense Reasoning, ...
 - Languages: Python/R
 
-### Currently participating in Naver BoostCamp AI Tech (NLP Track) ##
+### Recently participated in Naver BoostCamp AI Tech (NLP Track) ##
 - Projects, paper summaries, code implementation, course summaries will be updated soon
 
 
