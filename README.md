@@ -4,10 +4,6 @@
 - Interested in Knowledge Graphs, Information Retrieval, Commonsense Reasoning, ...
 - Languages: Python/R
 
-### Recently participated in Naver BoostCamp AI Tech (NLP Track) ##
-- Projects, paper summaries, code implementation, course summaries will be updated soon
-
-
 
 <!--
 **nlee-208/nlee-208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
