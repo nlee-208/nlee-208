@@ -1,7 +1,7 @@
 ### 👋👋👋 Bienvenidos 👋👋👋
 
 - Currently Majoring in Statistics (BS)
-- Interested in Knowledge Graphs, Information Retrieval, Commonsense Reasoning, ...
+- Interested in Information Retrieval, Commonsense Reasoning, & Rec-Sys
 - Languages: Python/R
 
 
