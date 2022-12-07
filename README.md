@@ -1,6 +1,6 @@
 ### 👋👋👋 Bienvenidos 👋👋👋
 
-- Currently Majoring in Statistics (BS)
+- Bachelors in Statistics
 - Interested in Information Retrieval, Commonsense Reasoning, & Rec-Sys
 - Languages: Python/R
 
