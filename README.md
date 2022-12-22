@@ -11,7 +11,7 @@
 </p>
 <br>
 <p align="center">
-  <a href = www.linkedin.com/in/noah-lee-013552110>
+  <a href = https://linkedin.com/in/noah-lee-013552110>
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat" alt="LinkedIn Badge">
    </a>
   <a href = https://github.com/nlee-208>
