@@ -31,8 +31,8 @@
   <h5 align="center"> 	:newspaper: Natural Language Processing </h5>
     <sub>
       <p align = "center">
-        :heavy_check_mark: Information Retrieval
-        :heavy_check_mark: Commonsense Reasoning
+        :heavy_check_mark: Large Language Model
+        :heavy_check_mark: Hallucination Mitigation
         :heavy_check_mark: Fact Verification
       </p>
      </sub>
@@ -44,6 +44,9 @@
         </p>
    </sub>
 
+
+
+<!--
 
 ---
 <p align="center">
@@ -66,7 +69,6 @@
 </p>
 
 
-<!--
 **nlee-208/nlee-208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
