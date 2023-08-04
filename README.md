@@ -6,7 +6,7 @@
 
 <p align="center">
 <sub> 🌱 I'm interested in NLP and its endless potentiality to better our lives  <br>
-      ✨ I'm currently pursuing my Master's in <em>The Kim Jaechul Graduate School of AI at KAIST</em>  <br>
+      ✨ I'm currently in my Master's <em>The Kim Jaechul Graduate School of AI at KAIST</em>  <br>
   </sub>
 </p>
 <br>
