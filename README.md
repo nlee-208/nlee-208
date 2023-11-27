@@ -5,8 +5,8 @@
 
 
 <p align="center">
-<sub> 🌱 I'm interested in NLP and its endless potentiality to better our lives  <br>
-      ✨ I'm currently in my Master's <em>The Kim Jaechul Graduate School of AI at KAIST</em>  <br>
+<sub> 🌱 I'm interested in NLP and its endless potentiality to better our lives <br>
+      ✨ I'm currently in my Master's at <em>The Kim Jaechul Graduate School of AI at KAIST</em>  <br>
   </sub>
 </p>
 <br>
@@ -32,8 +32,8 @@
     <sub>
       <p align = "center">
         :heavy_check_mark: Large Language Model
-        :heavy_check_mark: Hallucination Mitigation
-        :heavy_check_mark: Fact Verification
+        :heavy_check_mark: Human Alignment
+        :heavy_check_mark: Robust Generation
       </p>
      </sub>
   <h5 align="center"> 	:bookmark: Recommender Systems </h5>
