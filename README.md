@@ -1,6 +1,5 @@
 <h3 align="center">
-<img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="40px"> Bienvenidos! <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="40px">
-
+ Bienvenidos! 
 </h3>
 
 
